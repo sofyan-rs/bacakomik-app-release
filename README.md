@@ -10,6 +10,8 @@ Read Comic Application created using Flutter.
 
 ## Download
 
+<a href="https://github.com/sofyan-rs/bacakomik-app-release/releases" style="background: #2565c7; color: #fff; padding: 8px 10px; text-decoration: none;">Download APK</a>
+
 ## Bug Report
 
 If you find a bug you can report it to me by writing new issue in https://github.com/sofyan-rs/bacakomik-app-release/issues/new
